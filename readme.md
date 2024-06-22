@@ -25,7 +25,7 @@ All that stands between you and all the reassurance you will ever need are some 
 > [!CAUTION]
 > The Emotional Support Lambda<sup>TM</sup> has not been tested on willing participants (or otherwise) that don't require some form of emotional support.
 >
-> Perhaps this is due to a selecttion bias when only testing the Emotional Support Lambda<sup>TM</sup> on developers and engineers.
+> Perhaps this is due to a selection bias when only testing the Emotional Support Lambda<sup>TM</sup> on developers and engineers.
 >
 > If you are not in genuine need of emotional support from Emotional Support Lambda<sup>TM</sup> then we cannot guaruntee any results[^2]
 
