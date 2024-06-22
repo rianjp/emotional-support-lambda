@@ -22,12 +22,12 @@ All that stands between you and all the reassurance you will ever need are some 
 1. Terraform installed at a version that is inline with the required version in [versions.tf](./versions.tf).
     - Or you can meddle with the version number, I am not the boss of you.
 1. A desire for some emotional support from an uncaring machine.
-      > [!CAUTION]
-      > The Emotional Support Lambda<sup>TM</sup> has not been tested on willing participants (or otherwise) that don't require some form of emotional support.
-      >
-      > Perhaps this is due to a selecttion bias when only testing the Emotional Support Lambda<sup>TM</sup> on developers and engineers.
-      >
-      > If you are not in genuine need of emotional support from Emotional Support Lambda<sup>TM</sup> then we cannot guaruntee any results[^2]
+> [!CAUTION]
+> The Emotional Support Lambda<sup>TM</sup> has not been tested on willing participants (or otherwise) that don't require some form of emotional support.
+>
+> Perhaps this is due to a selecttion bias when only testing the Emotional Support Lambda<sup>TM</sup> on developers and engineers.
+>
+> If you are not in genuine need of emotional support from Emotional Support Lambda<sup>TM</sup> then we cannot guaruntee any results[^2]
 
 #### Configuring for deployment
 
