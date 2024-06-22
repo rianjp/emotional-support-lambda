@@ -53,7 +53,7 @@ alias tfplan="terraform plan --var-file=./config/dev/variables.tfvars"
 alias tfapply="terraform apply --var-file=./config/dev/variables.tfvars"
 alias tfdestroy="terraform destroy --var-file=./config/dev/variables.tfvars"
 ```
-For linux users (yes we all know you "use arch BTW") or windows users, the aliases will come as part of a premium add-on service offerd at a subscription fee for £5 per/install[^3], this has been decided by consulting with Electronic Arts[^4] on how to most effectively monetise features that should be free.
+For linux users (yes we all know you "use arch BTW") or windows users, the aliases will come as part of a premium add-on service offered at a subscription fee for £5 per/install[^3], this has been decided by consulting with Electronic Arts[^4] on how to most effectively monetise features that should be free.
 
 ---
 ### Footnotes
